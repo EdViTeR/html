@@ -1,0 +1,47 @@
+.parent162 {
+	padding: 10px 0;
+	border: 1px solid red;
+	text-align: right;
+	padding-right: 10px;
+}
+
+.parent164 {
+	padding: 10px 0;
+	border: 1px solid red;
+	text-align: center;
+}
+
+.child164 {
+	display: inline-block;
+	margin: 0px 5px;
+	padding: 10px;
+	border: 1px solid green;
+}
+
+.parent165 {
+	padding: 10px 0;
+	border: 1px solid red;
+	text-align: right;
+	padding-right: 10px;
+}
+
+.child165 {
+	padding: 10px;
+	border: 1px solid green;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.parent165_2 {
+	padding: 10px;
+	border: 1px solid red;
+	text-align: right;
+}
+
+.child165_2 {
+	width: 100px;
+	padding: 10px;
+	border: 1px solid green;
+	display: inline-block;
+	text-align: center;
+}

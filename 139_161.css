@@ -1,0 +1,50 @@
+/*span, a {*/
+span {
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+	margin-bottom: 20px;
+}
+
+p {
+	display: inline;
+}
+
+.elem {
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+	display: inline-block;
+}
+
+/*156*/
+.parent156 {
+	width: 700px;	
+	border: 1px solid red;
+}
+
+.child {
+	height: 100px;
+	margin: 10px auto;
+	border: 1px solid green;
+}
+
+.child1 {
+	width: 100px;
+}
+
+.child2 {
+	width: 200px;
+}
+
+.child3 {
+	width: 300px;
+}
+
+/*161*/
+.parent161 {
+	padding: 10px 0;
+	border: 1px solid red;
+	text-align: center;
+}
