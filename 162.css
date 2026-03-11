@@ -45,3 +45,29 @@
 	display: inline-block;
 	text-align: center;
 }
+
+.parent166 {
+	display: flex;
+	width: 300px;
+	height: 200px;
+	border: 1px solid red;
+}
+
+.child166 {
+	width: 50px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+.parent166_2 {
+	display: flex;
+	width: 700px;
+	height: 300px;
+	border: 1px solid red;
+}
+
+.child166_2 {
+	width: 100px;
+	height: 50px;
+	border: 1px solid green;
+}
