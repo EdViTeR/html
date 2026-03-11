@@ -1,0 +1,44 @@
+body {
+	background: #B9B9B9;
+}
+
+.parent {
+	background: white;
+	width: 400px;
+	border: 1px solid blue;
+}
+
+.child {
+	height: 300px;
+	border: 1px solid orange;
+	margin: 50px;
+}
+
+#elem {
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+	padding: 30px;
+}
+
+.elem1 {
+	width: 100px;
+	height: 100px;
+	background: white;
+}
+
+.elem2 {
+	width: 100px;
+	height: 100px;
+	background: white;
+	padding: 25px;
+	margin-top: 20px;
+}
+
+span {
+	width: 700px;
+	height: 100px;
+	margin-bottom: 20px;
+	border: 1px solid red;
+	display: inline-block;
+}
