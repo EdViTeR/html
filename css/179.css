@@ -1,0 +1,71 @@
+.parent {
+	position: relative;
+	width: 200px;
+	height: 450px;
+	margin: 0 auto;
+
+	border: 1px solid black;
+}
+
+.child_red {
+	position: absolute;
+	top: 50px;
+	left: 50px;
+
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	background: red;
+}
+
+.child_yellow {
+	position: absolute;
+	top: 170px;
+	left: 50px;
+
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	background: yellow;
+}
+
+.child_green {
+	position: absolute;
+	top: 290px;
+	left: 50px;
+
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	background: green;
+}
+
+.parent_absolute {
+	position: absolute;
+	top: 500px;
+	left: 200px;
+
+	width: 200px;
+	height: 200px;
+	border: 1px solid black;
+}
+
+.child_absolute_red {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+
+	width: 50px;
+	height: 50px;
+	border: 1px solid red;
+}
+
+.child_absolute_yellow {
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+
+	width: 50px;
+	height: 50px;
+	border: 3px solid yellow;
+}
